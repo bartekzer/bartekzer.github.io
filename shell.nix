@@ -9,6 +9,6 @@ pkgs.mkShell {
 
   shellHook = ''
     chmod +x ./convert.sh
-    chmod +x ./rebuild.sh
+    chmod +x ./tw-watch.sh
   '';
 }

@@ -3,17 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, maximum-scale=1">
-    <title>Lucas</title>
-    <link href="./assets/css/output.css" rel="stylesheet">
+    <title>$title$</title>
+    <link href="../assets/css/output.css" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
 </head>
 <body class="mx-auto min-h-svh max-w-prose py-12 px-2">
-    <h1>Witaj</h1>
-    <ul>
-        <li><a href="article/introduction-to-python.html">Python</a></li>
-        <li><a href="article/introduction-to-the-russian-language.html">Russian</a></li>
-    </ul>
+    <article class="mb-4">
+        <h1>$title$</h1>
+        <div class="text-zinc-900 font-mono text-sm text-right mt-10 mb-8">
+            <span>$date$</span>
+            <br>
+            <span>Last edited $mod_date$</span>
+        </div>
+        $body$
+    </article>
 </body>
 </html>

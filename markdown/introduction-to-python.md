@@ -1,5 +1,3 @@
-# Introduction to Python
-
 Python is a versatile programming language that you can use on the backend, frontend, or full stack of a web application. It is known for its readability and simplicity.
 
 ## Why Python?

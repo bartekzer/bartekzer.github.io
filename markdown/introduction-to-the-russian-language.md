@@ -1,5 +1,3 @@
-# Introduction to the Russian Language
-
 Russian is a fascinating and complex language spoken by over 258 million people worldwide. It is the official language of Russia, Belarus, Kazakhstan, and Kyrgyzstan, and is widely used in many other countries.
 
 ## History and Origins
@@ -20,7 +18,7 @@ Russian vocabulary is rich and diverse. Many words have roots in Old East Slavic
 
 ## Conclusion
 
-Learning Russian can be a rewarding experience that opens up new cultural and professional opportunities. With dedication and practice, anyone can achieve proficiency in this beautiful and influential language.
+Learning Russian can be a rewarding experience that opens up new cultural and professional opportunities. With dedication and practice, anyone can achieve proficiency in this beautiful and influential language
 
 ## Resources for Learning Russian
 
