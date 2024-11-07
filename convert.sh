@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-mkdir -p html
+mkdir -p article
 
 for md in markdown/*.md; do
   base=$(basename "$md" .md)

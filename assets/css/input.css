@@ -8,7 +8,7 @@
   }
 
   h1 {
-    @apply text-5xl font-bold mt-6 mb-2;
+    @apply text-3xl font-bold mt-6 mb-12;
   }
 
   h2 {
@@ -28,7 +28,21 @@
   }
 
   a {
-    @apply text-blue-700 hover:underline hover:text-blue-800;
+    color: #0000EE;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: #551A8B;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  a:active {
+    color: #FF0000;
+    text-decoration: underline;
   }
 
   .content-wrapper {
