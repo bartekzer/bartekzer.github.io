@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     fontFamily: {
       sans: ["Inter", "sans-serif"],
-      serif: ["Georgia", "Times New Roman", "serif"],
+      serif: ["Source Serif 4", "Georgia", "Times New Roman", "serif"],
       mono: ["monospace"],
     },
   },

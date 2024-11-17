@@ -2,8 +2,8 @@
 
 mkdir -p article
 
-for md in markdown/*.md; do
-  base=$(basename "$md" .md)
+for md in markdown/*.asciidoc; do
+  base=$(basename "$md" .asciidoc)
   creation_date=$(stat -c %w "$md" | awk '{print $1, $2}')
   modification_date=$(stat -c %y "$md" | awk '{print $1, $2}')
   
